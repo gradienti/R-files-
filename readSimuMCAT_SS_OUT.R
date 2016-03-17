@@ -25,6 +25,6 @@ Matrix <- data.frame(rbind(OutputMatrix1,OutputMatrix2,OutputMatrix3,OutputMatri
 
 }
 
-SS <- readSimuMCAT_SS("S1000-4D-C1-1-10.ss")
-str(SS)
+SS <- readSimuMCAT_SS("https://github.com/rnzbrk/R-files-/blob/master/S1000-4D-C1-1-10.ss")
+
 
